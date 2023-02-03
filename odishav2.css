@@ -1,0 +1,131 @@
+.heading{
+    text-align: center;
+}
+.about{
+    background-color: rgb(52, 134, 242);
+    height: 400px;
+    width: 80%;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.pic{
+    float: left;
+    height: 100%;
+    width: 20%;
+    background-color: rgb(242, 240, 243);
+    
+    
+}
+.img-one{
+    height: 100%;
+    width: 100%;
+}
+.text-Odisha{
+    float: left;
+    /* background-color: antiquewhite; */
+    margin: 3%;
+    height: 100%;
+    width: 54%;
+    overflow: hidden;
+    
+}
+.center{
+    text-align: center;
+    width: 100%;
+    float: left;
+    margin-bottom: 50px;
+}
+.places{
+    /* background-color:cadetblue; */
+    height: 350px;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 6%;
+    margin-bottom: 100px;
+    display:flex;
+    /* flex-direction: row;  */
+    justify-content: center;
+}
+ .place1{
+    float: left;
+    background-color: yellowgreen;
+    height: 350px;
+    width: 20%;
+    margin-right: 2%;
+    margin-left: 6%;
+
+    
+}
+.imgP1{
+    background-color: aqua;
+    width: 100%;
+    height: 60%;
+}
+.textP1{
+    background-color:#f0d977;
+    overflow-y: scroll;
+    height: 40%;
+}
+
+
+ .place2{
+    float: left;
+    background-color: rgb(55, 83, 221);
+    height: 350px;
+    width: 20%;
+    margin-right: 2%;
+    
+}
+.imgP2{
+    background-color: aqua;
+    width: 100%;
+    height: 60%;
+}
+.textP2{
+    background-color: #31acda;
+    overflow-y: scroll;
+    height: 40%;
+}
+
+
+ .place3{
+    float: left;
+    background-color: rgb(55, 83, 221);
+    height: 350px;
+    width: 20%;
+    margin-right: 2%;
+    
+}
+.imgP3{
+    background-color: aqua;
+    width: 100%;
+    height: 60%;
+}
+.textP3{
+    background-color: #8b8b1d;
+    overflow-y: scroll;
+    height: 40%;
+}
+
+ .place4{
+    float: left;
+    background-color: rgb(55, 83, 221);
+    height: 350px;
+    width: 20%;
+    margin-right: 2%;
+    
+}
+.imgP4{
+    background-color: aqua;
+    width: 100%;
+    height: 60%;
+}
+.textP4{
+    background-color: #b99064;
+    overflow-y: scroll;
+    height: 40%;
+}
+
+.footer{
+    text-align: center;
+}
