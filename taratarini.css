@@ -1,0 +1,36 @@
+.heading{
+    text-align: center;
+    border: 3cm rgb(190, 133, 76) solid;
+    background-color:rgba(187, 123, 60, 0.77);
+}
+.home{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    color: blue;
+    background-color:bisque ;
+    border: whitesmoke;
+    font-size: medium;
+}
+.button:hover{
+    color: black;
+    background-color:yellow;
+}
+.img{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+.about{
+    text-align: center;
+    background-color: bisque;
+
+}
+.text{
+    background-color: rgba(250, 235, 215, 0.19);
+}
+.footer{
+    text-align: center;
+}
